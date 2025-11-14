@@ -93,9 +93,8 @@ npx playwright show-report
 
 ![Test Screenshot](https://drive.google.com/uc?export=view&id=1ROQqc4fnGOuUrOxab3cVmVz2eryjXOGM)
 
-
-
 **Author**
 
 Sanjida Afrin
+
 Junior QA Engineer
